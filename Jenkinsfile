@@ -1,3 +1,4 @@
+node ('master')
 {
 
 stage('ContinuousDownload_loans')
